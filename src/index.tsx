@@ -358,7 +358,7 @@ export default class VirtualList extends React.PureComponent<Props, State> {
 
     if (
       offset < 0 ||
-      this.state.offset === offset ||
+      // this.state.offset === offset ||
       event.target !== this.rootNode
     ) {
       return;
