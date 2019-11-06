@@ -39,3 +39,8 @@ export const oppositeMarginProp = {
   [DIRECTION.VERTICAL]: 'marginBottom',
   [DIRECTION.HORIZONTAL]: 'marginRight',
 };
+
+export const transformProp = {
+  [DIRECTION.VERTICAL]: 'translateY',
+  [DIRECTION.HORIZONTAL]: 'translateX',
+};
