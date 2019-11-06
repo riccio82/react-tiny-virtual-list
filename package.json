@@ -1,5 +1,5 @@
 {
-  "name": "react-tiny-virtual-list-riccio82",
+  "name": "react-tiny-virtual-list-with-transition",
   "version": "2.2.0",
   "description": "A tiny but mighty list virtualization component, with zero dependencies 💪",
   "main": "build/react-tiny-virtual-list.cjs.js",
